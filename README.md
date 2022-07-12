@@ -1,5 +1,5 @@
 
-Cruzadinha is an open-source and flutter-built cross-word app that functions locally in your browser (through the link: https://cruzadinha.netlify.com).
+Cruzadinha is an open-source and flutter-built cross-word app that functions locally in your browser (through the link: https://cruzadinha.xyz).
 
 # How does it work
 
