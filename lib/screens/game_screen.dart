@@ -340,7 +340,7 @@ class _GameScreenState extends State<GameScreen> {
   }
 
   String _shareResults() {
-    String gameHeader = "Joguei cruzadinha.netlify.app.\n";
+    String gameHeader = "Joguei cruzadinha.xyz!\n";
     if (_lives != null) {
       gameHeader += "Finalizado com ${_lives.toString()} vidas.\n\n";
     } else {

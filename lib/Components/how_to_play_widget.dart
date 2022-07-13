@@ -59,7 +59,7 @@ class HowToPlayWidget extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.only(bottom: 12),
               child: Text(
-                "Descubra as palavras distribuídas horizontalmente",
+                "Descubra as palavras com letras distribuídas verticalmente",
                 style: Theme.of(context)
                     .textTheme
                     .bodyText2!
